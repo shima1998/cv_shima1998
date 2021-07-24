@@ -1,3 +1,10 @@
-# The largest heading (最大のヘッディング)
-## The second largest heading (2番目に大きなヘッディング)
-###### The smallest heading (最も小さいヘッディング)
+# Resume
+## PROFILE
+*IT Engeneer(No work experience until 2021/07)
+*Designer(No work experience until 2021/07)
+
+## SKILLS
+### Language
+'''
+HTML/JavaScript/CSS/Java
+'''
