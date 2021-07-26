@@ -1,9 +1,9 @@
 # Resume
 ## PROFILE
 * ITエンジニア(2021年7月現在実務経験なし)
-  -IT Engeneer(No work experience until 2021/07)
+  - IT Engeneer(No work experience until 2021/07)
 * Webデザイナー(2021年7月現在実務経験なし)
-　-Web Designer(No work experience until 2021/07)
+  - Web Designer(No work experience until 2021/07)
 
 ## SKILLS
 ### English
