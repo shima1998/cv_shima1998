@@ -43,6 +43,7 @@ Adobe Illustrator(2year)/Adobe Xd(2year)/Adobe Photoshop(half year)/Github(4year
 ### 大学2年(2018)
 * Arduinoで稼働するランプシェードを制作した - Create lampshade by Arduino
 * インフォグラフィックスについて学び、昆布の歴史をテーマにしたポスターを制作した - Learned by infographics and create a poster about history of sea cabbage(kombu)
+* Arduinoを使用したオートマタの制作 - Create Automata by Arduino
 * チームで町おこしのためのプロダクトとして「スマートボール」を制作し、実際に観光客の方々に遊んでもらった - Create "SmartBall"(Japanese ball game similar to pinball) for revitalization of a town with group and get tourist to play this game
 * 架空のクラウドファンディングのプロダクトの提案をした - Suggest fictitious Crowdfunding
 
