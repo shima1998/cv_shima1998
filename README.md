@@ -30,7 +30,7 @@ Arduino
 Adobe Illustrator(2year)/Adobe Xd(2year)/Adobe Photoshop(half year)/Github(4year)/Affinity Designer/Affinity Photo/monaca
 ```
 ## 経験 - EXPERIENCES
-### 大学(2017~2021) - University(2017~2021)
+### 大学 - University(2017~2021)
 <!-- 
 ・海外でデザインワークショップやった
 ・学際の実行委員会をやっていた
